@@ -14,21 +14,18 @@ class Solution {
             resultCopy=resultCopy>>1;
             position++;
         }
-        Queue<Integer> divided = new LinkedList<>();
+       
+        ans[0] = 0;
+        ans[1] = 0;
         for(int i=0;i<nums.length;i++){
-            int number = nums[i];
+            int number= nums[i];
             number = number>>position;
-            if((number&1)==1){
-                divided.add(nums[i]);
+            if((number&1)!=0){
+                arr[0]^=nums[i];
             }
         }
-        int newCopy = result;
-        int size = divided.size();
-        for(int i = 0;i<size;i++){
-            result = result^divided.poll();
-        }
-        ans[0] = result;
-        ans[1] = newCopy^result;
-        return ans;
+        arr[1] = arr[0]^result;
+            
+            return ans;
     }
 }
