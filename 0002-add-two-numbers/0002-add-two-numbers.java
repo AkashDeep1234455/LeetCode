@@ -12,6 +12,7 @@ class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ArrayList<ListNode> output = new ArrayList();
         int carry = 0;
+        ///while loop
         while(l1!=null||l2!=null){
             int value1 = 0;
             int value2 = 0;
@@ -41,7 +42,8 @@ class Solution {
             }
         }
         ListNode ansList = output.get(0);
-        for(int i=1;i<output.size();i++){
+        for(int i=1;i<output.size
+        ();i++){
             ListNode nextEle = output.get(i);
             output.get(i-1).next =nextEle;
         }
