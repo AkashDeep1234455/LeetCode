@@ -7,8 +7,7 @@ class Solution {
             output[3] = j;
         }
         helper(land,output,visited,i+1,j);
-        helper(land,output,visited,i,j+1);
-       
+        helper(land,output,visited,i,j+1);  
     }
     public int[][] findFarmland(int[][] land) {
         ArrayList<int[]> outputCont = new ArrayList<>();
