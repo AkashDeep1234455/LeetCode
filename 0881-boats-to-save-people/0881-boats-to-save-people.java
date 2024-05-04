@@ -14,11 +14,10 @@ class Solution {
             }
             if(leftWeight+rightWeight<=limit){
                 left++;
-                ans++;
-            } else{
-                ans++;
+              
             }
               right--;
+              ans++;
         }
         return ans;
     }
