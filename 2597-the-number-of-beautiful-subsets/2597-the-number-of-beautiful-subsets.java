@@ -1,22 +1,27 @@
 class Solution {
-     int map[];
-    
     public int beautifulSubsets(int[] nums, int k) {
-        Arrays.sort(nums);
-        map = new int[1003];
-        
-        return helper(0,k,nums)-1;
+         List<List<Integer>> subset = new ArrayList<>();
+        subsetHelper(nums, subset, 0, new ArrayList<>(), k);
+        return subset.size();
     }
-    private int helper(int ind,int k,int[] nums){
-        if (ind == nums.length) return 1;
-
-        int taken = 0;
-        if ((nums[ind] - k) < 0 || (map[nums[ind]-k] == 0)){
-            map[nums[ind]]++;
-            taken = helper(ind+1,k,nums);
-            map[nums[ind]]--;
+    public static void subsetHelper(int[] nums, List<List<Integer>> subset, int start, List<Integer> temp, int k) {
+        if (!temp.isEmpty()) {
+            subset.add(new ArrayList<>(temp));  // Add non-empty subset
         }
-        int not_taken = helper(ind+1,k,nums);
-        return taken + not_taken;
+        
+        for (int i = start; i < nums.length; i++) {
+            boolean canAdd = true;
+            for (int num : temp) {
+                if (Math.abs(nums[i] - num) == k) {
+                    canAdd = false;
+                    break;
+                }
+            }
+            if (canAdd) {
+                temp.add(nums[i]);
+                subsetHelper(nums, subset, i + 1, temp, k);
+                temp.remove(temp.size() - 1);  // Backtrack
+            }
+        }
     }
 }
