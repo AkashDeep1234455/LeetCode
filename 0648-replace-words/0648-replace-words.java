@@ -51,16 +51,17 @@ class Trie{
 
 class Solution {
     public String replaceWords(List<String> dictionary, String sentence) {
+        int length = sentence.length();
         Trie newTrie = new Trie();
         StringBuilder output = new StringBuilder();
         for(String word:dictionary){
             newTrie.add(word);
         }
         StringBuilder curr = new StringBuilder();
-        for(int i=0;i<sentence.length();i++){
+        for(int i=0;i<length;i++){
             char c = sentence.charAt(i);
-            if(c==' '||i==sentence.length()-1){
-                if(i==sentence.length()-1) curr.append(c);
+            if(c==' '||i==length-1){
+                if(i==length-1) curr.append(c);
                 String rootWord = newTrie.shortestCommonPrefix(curr.toString());
                 if(rootWord=="") output.append(new StringBuilder(curr)+" ");
                 else output.append(new StringBuilder(rootWord)+" ");
