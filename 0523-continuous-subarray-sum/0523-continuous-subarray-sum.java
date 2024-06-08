@@ -1,6 +1,6 @@
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
-          int length = nums.length;
+        int length = nums.length;
         int[] prefixSum = new int[length];
         prefixSum[0] = nums[0];
         for(int i=1;i<length;i++){
