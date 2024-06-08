@@ -27,6 +27,7 @@ LeetCode Questions Solution
 | ------- |
 | [0049-group-anagrams](https://github.com/AkashDeep1234455/LeetCode/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/AkashDeep1234455/LeetCode/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AkashDeep1234455/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AkashDeep1234455/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AkashDeep1234455/LeetCode/tree/master/1044-find-common-characters) |
@@ -34,6 +35,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AkashDeep1234455/LeetCode/tree/master/0049-group-anagrams) |
+| [0523-continuous-subarray-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AkashDeep1234455/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AkashDeep1234455/LeetCode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AkashDeep1234455/LeetCode/tree/master/1044-find-common-characters) |
@@ -46,3 +48,11 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/AkashDeep1234455/LeetCode/tree/master/0648-replace-words) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0523-continuous-subarray-sum) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0523-continuous-subarray-sum) |
