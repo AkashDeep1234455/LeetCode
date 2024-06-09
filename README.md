@@ -30,6 +30,7 @@ LeetCode Questions Solution
 | [0523-continuous-subarray-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AkashDeep1234455/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AkashDeep1234455/LeetCode/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/AkashDeep1234455/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/AkashDeep1234455/LeetCode/tree/master/1044-find-common-characters) |
 # Array
 |  |
@@ -38,6 +39,7 @@ LeetCode Questions Solution
 | [0523-continuous-subarray-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AkashDeep1234455/LeetCode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AkashDeep1234455/LeetCode/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/AkashDeep1234455/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/AkashDeep1234455/LeetCode/tree/master/1044-find-common-characters) |
 # Sorting
 |  |
@@ -56,3 +58,4 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/AkashDeep1234455/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
