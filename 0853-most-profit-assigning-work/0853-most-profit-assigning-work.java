@@ -8,12 +8,14 @@ class Solution {
         }
         Arrays.sort(jobs,(a,b)->Integer.compare(a[0],b[0]));
         int totalProfit = 0;
+        int currProfit =0;
+        Arrays.sort(worker);
+        int j=0;
         for(int i=0;i<worker.length;i++){
             int workCapacity = worker[i];
-            int currProfit = 0;
-            for(int j=0;j<jobs.length;j++){
-                if(jobs[j][0]>workCapacity) break;
+            while (j<jobs.length&&workCapacity>=jobs[j][0]){
                 currProfit = Math.max(currProfit,jobs[j][1]);
+                j++;
             }
             totalProfit+=currProfit;
         }
