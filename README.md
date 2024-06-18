@@ -34,6 +34,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AkashDeep1234455/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/AkashDeep1234455/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0409-longest-palindrome](https://github.com/AkashDeep1234455/LeetCode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AkashDeep1234455/LeetCode/tree/master/0648-replace-words) |
@@ -46,6 +47,7 @@ LeetCode Questions Solution
 | ------- |
 | [0049-group-anagrams](https://github.com/AkashDeep1234455/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AkashDeep1234455/LeetCode/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/AkashDeep1234455/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0330-patching-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/AkashDeep1234455/LeetCode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -99,3 +101,7 @@ LeetCode Questions Solution
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/AkashDeep1234455/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/AkashDeep1234455/LeetCode/tree/master/0853-most-profit-assigning-work) |
+# Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AkashDeep1234455/LeetCode/tree/master/0128-longest-consecutive-sequence) |
