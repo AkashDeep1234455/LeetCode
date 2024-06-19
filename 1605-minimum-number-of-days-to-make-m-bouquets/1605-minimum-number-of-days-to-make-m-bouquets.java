@@ -2,7 +2,7 @@ class Solution {
     public static boolean helperFlower(int currDay,int []bloomDay,int m,int k){
         int n = bloomDay.length;
         int flower = 0;
-        for(int i = 0;i<bloomDay.length;i++){
+        for(int i = 0;i<n;i++){
             if(bloomDay[i]<=currDay){
                 flower++;
                 if(flower==k){
