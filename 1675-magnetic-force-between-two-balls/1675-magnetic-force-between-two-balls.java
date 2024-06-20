@@ -1,12 +1,12 @@
 class Solution {
      public static boolean canPlaceBall(int []position,int m,int mid){
-        int count = 1;
+        m = m-1;
         int lastPosition = position[0];
         for(int i=1;i<position.length;i++){
             if(position[i]-lastPosition>=mid){
-                count++;
+                m--;
                 lastPosition = position[i];
-                if(count==m) return true;
+                if(m==0) return true;
             }
         }
         return false;
