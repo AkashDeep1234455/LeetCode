@@ -167,3 +167,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/AkashDeep1234455/LeetCode/tree/master/1916-find-center-of-star-graph) |
