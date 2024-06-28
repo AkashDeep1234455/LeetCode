@@ -49,6 +49,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AkashDeep1234455/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AkashDeep1234455/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AkashDeep1234455/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/AkashDeep1234455/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0330-patching-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0330-patching-array) |
@@ -73,6 +74,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AkashDeep1234455/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AkashDeep1234455/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AkashDeep1234455/LeetCode/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/AkashDeep1234455/LeetCode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/AkashDeep1234455/LeetCode/tree/master/0853-most-profit-assigning-work) |
