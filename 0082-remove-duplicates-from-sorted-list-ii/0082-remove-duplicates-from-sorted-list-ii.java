@@ -10,36 +10,16 @@
  */
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
-        if(head==null||head.next==null) return head;
-        Deque<ListNode> uniqueList = new LinkedList();
-        HashMap<Integer,Boolean> map = new HashMap<>();
-        while (head!=null){
-            int currVal = head.val;
-             if(map.containsKey(currVal)){
-                if(!map.get(currVal)){
-                map.put(currVal,true);
-                uniqueList.pollLast();
-                }
-            }else{
-                map.put(currVal,false);
-                ListNode newNode = new ListNode();
-                newNode.val = head.val;
-                newNode.next = null;
-                uniqueList.addLast(newNode);
+        if(head==null || head.next==null) return head;
+        ListNode next = head.next;
+        if(next.val==head.val){
+            while (next != null && next.val == head.val){
+                next = next.next;
             }
-            head = head.next;
+            return deleteDuplicates(next);
+        }else{
+            head.next = deleteDuplicates(next);
+            return head;
         }
-        ListNode next = new ListNode();
-        while (!uniqueList.isEmpty()){
-            ListNode curr = uniqueList.pollFirst();
-            if(head==null) {
-                head = curr;
-                next = head;
-                continue;
-            }
-            next.next = curr;
-            next = curr;
-        }
-        return head;
     }
 }
