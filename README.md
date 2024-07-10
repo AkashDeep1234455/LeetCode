@@ -205,6 +205,7 @@ LeetCode Questions Solution
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/AkashDeep1234455/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/AkashDeep1234455/LeetCode/tree/master/1803-average-waiting-time) |
 ## Hash Table
 |  |
@@ -241,4 +242,12 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/AkashDeep1234455/LeetCode/tree/master/2645-pass-the-pillow) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
