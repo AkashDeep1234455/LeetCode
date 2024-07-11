@@ -254,11 +254,13 @@ LeetCode Questions Solution
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/AkashDeep1234455/LeetCode/tree/master/0071-simplify-path) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/AkashDeep1234455/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AkashDeep1234455/LeetCode/tree/master/0155-min-stack) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
