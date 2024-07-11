@@ -257,12 +257,14 @@ LeetCode Questions Solution
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AkashDeep1234455/LeetCode/tree/master/0155-min-stack) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AkashDeep1234455/LeetCode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/AkashDeep1234455/LeetCode/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
