@@ -1,54 +1,48 @@
 class Solution {
     public int maximumGain(String s, int x, int y) {
-         ///x refers to score gained by removing ab and y refers to score gained by removing ba
-        int xFirst = 0;
-        int yFirst = 0;
+         if (x < y) {
+            int temp = x;
+            x = y;
+            y = temp;
+            s = new StringBuilder(s).reverse().toString();
+        }
 
-        //Stack for handling string removal
-        //this will handle x first
-        Stack<Character> stringStoreX = new Stack<>();
-        //this will handle y first
-        Stack<Character> stringStoreY = new Stack<>();
-        //we gonna remove ab first and then ba
-        //ab
-        for(int i=0;i<s.length();i++){
-            char curr = s.charAt(i);
-            ///work for stringStoreX
-            if(stringStoreX.isEmpty()) stringStoreX.push(curr);
-            else if(curr=='b'&&stringStoreX.peek()=='a'){
-                xFirst+=x;
-                stringStoreX.pop();
-            }else stringStoreX.push(curr);
+        // x refers to the score gained by removing "ab" and y refers to the score gained by removing "ba"
+        int score = 0;
 
-            ///work for stringStoreY
-            if(stringStoreY.isEmpty()) stringStoreY.push(curr);
-            else if(curr=='a'&&stringStoreY.peek()=='b'){
-                yFirst+=y;
-                stringStoreY.pop();
-            }else stringStoreY.push(curr);
+        // Stack for handling string removal
+        Stack<Character> stack = new Stack<>();
+
+        // First pass to remove "ab" or "ba" depending on x and y
+        for (char curr : s.toCharArray()) {
+            if (!stack.isEmpty() && curr == 'b' && stack.peek() == 'a') {
+                score += x;
+                stack.pop();
+            } else {
+                stack.push(curr);
+            }
         }
-        StringBuilder newStringX  = new StringBuilder();
-        StringBuilder newStringY  = new StringBuilder();
-        while (!stringStoreX.isEmpty()) newStringX.append(stringStoreX.pop());
-        while (!stringStoreY.isEmpty()) newStringY.append(stringStoreY.pop());
-        newStringX = newStringX.reverse();
-        newStringY = newStringY.reverse();
-        for(int i=0;i<newStringX.length();i++){
-            char curr = newStringX.charAt(i);
-            if(stringStoreX.isEmpty()) stringStoreX.push(curr);
-            else if(curr=='a'&&stringStoreX.peek()=='b'){
-                xFirst+=y;
-                stringStoreX.pop();
-            }else stringStoreX.push(curr);
+
+        // Create the new string after removing "ab" or "ba"
+        StringBuilder remainingString = new StringBuilder();
+        while (!stack.isEmpty()) {
+            remainingString.append(stack.pop());
         }
-        for(int i=0;i<newStringY.length();i++){
-            char curr = newStringY.charAt(i);
-            if(stringStoreY.isEmpty()) stringStoreY.push(curr);
-            else if(curr=='b'&&stringStoreY.peek()=='a'){
-                yFirst+=x;
-                stringStoreY.pop();
-            }else stringStoreY.push(curr);
+        remainingString.reverse();
+
+        // Clear the stack before the second pass
+        stack.clear();
+
+        // Second pass to remove "ba" or "ab" in the remaining string
+        for (char curr : remainingString.toString().toCharArray()) {
+            if (!stack.isEmpty() && curr == 'a' && stack.peek() == 'b') {
+                score += y;
+                stack.pop();
+            } else {
+                stack.push(curr);
+            }
         }
-        return Math.max(xFirst,yFirst);
+
+        return score;
     }
 }
