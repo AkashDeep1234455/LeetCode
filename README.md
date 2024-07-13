@@ -182,12 +182,14 @@ LeetCode Questions Solution
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AkashDeep1234455/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AkashDeep1234455/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0112-path-sum) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AkashDeep1234455/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -292,6 +294,7 @@ LeetCode Questions Solution
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AkashDeep1234455/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/AkashDeep1234455/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -299,6 +302,7 @@ LeetCode Questions Solution
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/AkashDeep1234455/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/AkashDeep1234455/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0222-count-complete-tree-nodes) |
