@@ -208,6 +208,7 @@ LeetCode Questions Solution
 | [1293-three-consecutive-odds](https://github.com/AkashDeep1234455/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/AkashDeep1234455/LeetCode/tree/master/1803-average-waiting-time) |
+| [2846-robot-collisions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,6 +230,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2846-robot-collisions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
 | ------- |
@@ -246,6 +248,7 @@ LeetCode Questions Solution
 | [1803-average-waiting-time](https://github.com/AkashDeep1234455/LeetCode/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AkashDeep1234455/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/AkashDeep1234455/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -267,6 +270,7 @@ LeetCode Questions Solution
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AkashDeep1234455/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2846-robot-collisions) |
 ## Design
 |  |
 | ------- |
