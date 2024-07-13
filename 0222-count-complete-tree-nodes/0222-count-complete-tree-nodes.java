@@ -14,22 +14,9 @@
  * }
  */
 class Solution {
+    
     public int countNodes(TreeNode root) {
         if(root==null) return 0;
-        Queue<TreeNode> pendingNodes = new LinkedList<>();
-        pendingNodes.add(root);
-        int count = 1;
-        while(!pendingNodes.isEmpty()){
-            TreeNode curr = pendingNodes.poll();
-            if(curr.left!=null) {
-                pendingNodes.add(curr.left);
-                count++;
-            }
-            if(curr.right!=null) {
-                pendingNodes.add(curr.right);
-                count++;
-            }
-        }
-        return count;
+        return countNodes(root.left)+countNodes(root.right)+1;
     }
 }
