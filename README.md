@@ -182,6 +182,7 @@ LeetCode Questions Solution
 ## Depth-First Search
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AkashDeep1234455/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -284,4 +285,12 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AkashDeep1234455/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
