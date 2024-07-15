@@ -215,6 +215,7 @@ LeetCode Questions Solution
 | [1293-three-consecutive-odds](https://github.com/AkashDeep1234455/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/AkashDeep1234455/LeetCode/tree/master/1803-average-waiting-time) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -223,6 +224,7 @@ LeetCode Questions Solution
 | [0146-lru-cache](https://github.com/AkashDeep1234455/LeetCode/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/AkashDeep1234455/LeetCode/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -311,6 +313,7 @@ LeetCode Questions Solution
 | [0173-binary-search-tree-iterator](https://github.com/AkashDeep1234455/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
@@ -321,6 +324,7 @@ LeetCode Questions Solution
 | [0173-binary-search-tree-iterator](https://github.com/AkashDeep1234455/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Bit Manipulation
 |  |
 | ------- |
