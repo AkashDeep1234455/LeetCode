@@ -188,6 +188,7 @@ LeetCode Questions Solution
 | [0129-sum-root-to-leaf-numbers](https://github.com/AkashDeep1234455/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AkashDeep1234455/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkashDeep1234455/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -276,6 +277,7 @@ LeetCode Questions Solution
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AkashDeep1234455/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkashDeep1234455/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Stack
 |  |
 | ------- |
@@ -313,6 +315,7 @@ LeetCode Questions Solution
 | [0173-binary-search-tree-iterator](https://github.com/AkashDeep1234455/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkashDeep1234455/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -324,6 +327,7 @@ LeetCode Questions Solution
 | [0173-binary-search-tree-iterator](https://github.com/AkashDeep1234455/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AkashDeep1234455/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Bit Manipulation
 |  |
