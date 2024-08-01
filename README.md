@@ -302,6 +302,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [2645-pass-the-pillow](https://github.com/AkashDeep1234455/LeetCode/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
