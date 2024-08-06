@@ -20,14 +20,9 @@ class Solution {
     public int minimumPushes(String word) {
         if(word.length()<=8) return word.length();
         Word arr[] = new Word[26];
-        int special = 0;
         for(int i=0;i<word.length();i++){
             char curr = word.charAt(i);
             int index = curr-'a';
-            if(curr=='1'||curr=='*'||curr=='0'||curr=='#'){
-                special++;
-                continue;
-            }
             if(arr[index]==null){
                 Word newEntry = new Word(curr,1);
                 arr[index] = newEntry;
