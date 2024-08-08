@@ -232,6 +232,7 @@ LeetCode Questions Solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AkashDeep1234455/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/AkashDeep1234455/LeetCode/tree/master/0502-ipo) |
+| [0921-spiral-matrix-iii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/AkashDeep1234455/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AkashDeep1234455/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -313,6 +314,7 @@ LeetCode Questions Solution
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/AkashDeep1234455/LeetCode/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AkashDeep1234455/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/AkashDeep1234455/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -430,6 +432,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AkashDeep1234455/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AkashDeep1234455/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AkashDeep1234455/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
