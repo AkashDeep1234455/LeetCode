@@ -182,6 +182,7 @@ LeetCode Questions Solution
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -379,6 +380,7 @@ LeetCode Questions Solution
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AkashDeep1234455/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AkashDeep1234455/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0112-path-sum) |
@@ -399,6 +401,7 @@ LeetCode Questions Solution
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AkashDeep1234455/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AkashDeep1234455/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0112-path-sum) |
@@ -423,6 +426,7 @@ LeetCode Questions Solution
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/AkashDeep1234455/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkashDeep1234455/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AkashDeep1234455/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
