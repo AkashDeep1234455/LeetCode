@@ -235,6 +235,7 @@ LeetCode Questions Solution
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AkashDeep1234455/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/AkashDeep1234455/LeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/AkashDeep1234455/LeetCode/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/AkashDeep1234455/LeetCode/tree/master/0162-find-peak-element) |
@@ -488,6 +489,7 @@ LeetCode Questions Solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/AkashDeep1234455/LeetCode/tree/master/0118-pascals-triangle) |
 | [1196-filling-bookcase-shelves](https://github.com/AkashDeep1234455/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AkashDeep1234455/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/AkashDeep1234455/LeetCode/tree/master/1511-count-number-of-teams) |
