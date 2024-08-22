@@ -233,6 +233,7 @@ LeetCode Questions Solution
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AkashDeep1234455/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/AkashDeep1234455/LeetCode/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -267,6 +268,7 @@ LeetCode Questions Solution
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/AkashDeep1234455/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/AkashDeep1234455/LeetCode/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -445,6 +447,7 @@ LeetCode Questions Solution
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AkashDeep1234455/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/AkashDeep1234455/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AkashDeep1234455/LeetCode/tree/master/0200-number-of-islands) |
