@@ -352,6 +352,7 @@ LeetCode Questions Solution
 | [0071-simplify-path](https://github.com/AkashDeep1234455/LeetCode/tree/master/0071-simplify-path) |
 | [0273-integer-to-english-words](https://github.com/AkashDeep1234455/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/AkashDeep1234455/LeetCode/tree/master/0726-number-of-atoms) |
+| [1250-longest-common-subsequence](https://github.com/AkashDeep1234455/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AkashDeep1234455/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -501,6 +502,7 @@ LeetCode Questions Solution
 | [0152-maximum-product-subarray](https://github.com/AkashDeep1234455/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashDeep1234455/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/AkashDeep1234455/LeetCode/tree/master/1196-filling-bookcase-shelves) |
+| [1250-longest-common-subsequence](https://github.com/AkashDeep1234455/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AkashDeep1234455/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/AkashDeep1234455/LeetCode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AkashDeep1234455/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
