@@ -242,6 +242,7 @@ LeetCode Questions Solution
 | [0130-surrounded-regions](https://github.com/AkashDeep1234455/LeetCode/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/AkashDeep1234455/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkashDeep1234455/LeetCode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/AkashDeep1234455/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -299,6 +300,7 @@ LeetCode Questions Solution
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AkashDeep1234455/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/AkashDeep1234455/LeetCode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashDeep1234455/LeetCode/tree/master/0300-longest-increasing-subsequence) |
