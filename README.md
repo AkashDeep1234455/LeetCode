@@ -298,6 +298,7 @@ LeetCode Questions Solution
 | [0061-rotate-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkashDeep1234455/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -315,6 +316,7 @@ LeetCode Questions Solution
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/AkashDeep1234455/LeetCode/tree/master/0502-ipo) |
@@ -338,6 +340,7 @@ LeetCode Questions Solution
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/AkashDeep1234455/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/AkashDeep1234455/LeetCode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0148-sort-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AkashDeep1234455/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AkashDeep1234455/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -482,6 +485,7 @@ LeetCode Questions Solution
 | ------- |
 | [0053-maximum-subarray](https://github.com/AkashDeep1234455/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AkashDeep1234455/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -495,6 +499,7 @@ LeetCode Questions Solution
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
