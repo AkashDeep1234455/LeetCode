@@ -18,8 +18,6 @@ class Solution {
             boolean visited[] = new boolean[numCourses];
             if(!completed[i]){
                 boolean ans = helper(i,map,completed,visited);
-                System.out.println(ans);
-                completed[i] = ans;
                 if(!ans) return false;
             }
         }
