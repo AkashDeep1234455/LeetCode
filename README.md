@@ -219,6 +219,7 @@ LeetCode Questions Solution
 | [0433-minimum-genetic-mutation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AkashDeep1234455/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/AkashDeep1234455/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AkashDeep1234455/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
@@ -272,6 +273,7 @@ LeetCode Questions Solution
 | [0502-ipo](https://github.com/AkashDeep1234455/LeetCode/tree/master/0502-ipo) |
 | [0772-construct-quad-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0921-spiral-matrix-iii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0945-snakes-and-ladders](https://github.com/AkashDeep1234455/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AkashDeep1234455/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/AkashDeep1234455/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -504,6 +506,7 @@ LeetCode Questions Solution
 | [0200-number-of-islands](https://github.com/AkashDeep1234455/LeetCode/tree/master/0200-number-of-islands) |
 | [0772-construct-quad-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0921-spiral-matrix-iii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0945-snakes-and-ladders](https://github.com/AkashDeep1234455/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AkashDeep1234455/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AkashDeep1234455/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
