@@ -216,6 +216,7 @@ LeetCode Questions Solution
 | [0207-course-schedule](https://github.com/AkashDeep1234455/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/AkashDeep1234455/LeetCode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AkashDeep1234455/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AkashDeep1234455/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -303,6 +304,7 @@ LeetCode Questions Solution
 | [0138-copy-list-with-random-pointer](https://github.com/AkashDeep1234455/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/AkashDeep1234455/LeetCode/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0726-number-of-atoms](https://github.com/AkashDeep1234455/LeetCode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AkashDeep1234455/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AkashDeep1234455/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -386,6 +388,7 @@ LeetCode Questions Solution
 | [0071-simplify-path](https://github.com/AkashDeep1234455/LeetCode/tree/master/0071-simplify-path) |
 | [0273-integer-to-english-words](https://github.com/AkashDeep1234455/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0399-evaluate-division](https://github.com/AkashDeep1234455/LeetCode/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0726-number-of-atoms](https://github.com/AkashDeep1234455/LeetCode/tree/master/0726-number-of-atoms) |
 | [1250-longest-common-subsequence](https://github.com/AkashDeep1234455/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
