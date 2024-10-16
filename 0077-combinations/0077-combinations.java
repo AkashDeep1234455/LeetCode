@@ -1,12 +1,12 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
-        List<List<Integer>> output = new LinkedList<>();
-        helper(n,k,output,new LinkedList<>(),1);
+        List<List<Integer>> output = new ArrayList<>();
+        helper(n,k,output,new ArrayList<>(),1);
         return output;
     }
     public void helper(int n,int k,List<List<Integer>> output,List<Integer> input,int j){
         if(input.size()==k){
-            output.add(new LinkedList<>(input));
+            output.add(new ArrayList<>(input));
             return;
         }
         for(int i=j;i<=n;i++){
