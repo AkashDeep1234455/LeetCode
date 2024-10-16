@@ -193,6 +193,7 @@ LeetCode Questions Solution
 | [0200-number-of-islands](https://github.com/AkashDeep1234455/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AkashDeep1234455/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AkashDeep1234455/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AkashDeep1234455/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/AkashDeep1234455/LeetCode/tree/master/0399-evaluate-division) |
@@ -390,6 +391,7 @@ LeetCode Questions Solution
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0071-simplify-path](https://github.com/AkashDeep1234455/LeetCode/tree/master/0071-simplify-path) |
 | [0208-implement-trie-prefix-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AkashDeep1234455/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0273-integer-to-english-words](https://github.com/AkashDeep1234455/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0399-evaluate-division](https://github.com/AkashDeep1234455/LeetCode/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0433-minimum-genetic-mutation) |
@@ -427,6 +429,7 @@ LeetCode Questions Solution
 | [0155-min-stack](https://github.com/AkashDeep1234455/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AkashDeep1234455/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AkashDeep1234455/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -603,4 +606,5 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AkashDeep1234455/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
