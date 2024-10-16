@@ -391,6 +391,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/AkashDeep1234455/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/AkashDeep1234455/LeetCode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -560,6 +561,7 @@ LeetCode Questions Solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/AkashDeep1234455/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/AkashDeep1234455/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkashDeep1234455/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -605,6 +607,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AkashDeep1234455/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AkashDeep1234455/LeetCode/tree/master/0077-combinations) |
