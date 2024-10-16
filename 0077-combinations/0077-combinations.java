@@ -12,7 +12,7 @@ class Solution {
         for(int i=j;i<=n;i++){
             input.add(i);
             helper(n,k,output,input,i+1);
-            input.removeLast();
+            input.remove(input.size()-1);
         }
 
 
