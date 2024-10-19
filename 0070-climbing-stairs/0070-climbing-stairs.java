@@ -1,18 +1,13 @@
 class Solution {
     public int climbStairs(int n) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        return helper(n,0,map);
-    }
-    private int helper(int n,int currStep,HashMap<Integer,Integer> map){
-        if(currStep>n) return 0;
-        if(currStep==n){
-            return 1;
+        int output[] = new int[n+1];
+        output[1] = 1;
+        if(n>1){
+            output[2] =  2;
         }
-        if(map.containsKey(currStep)){
-           return map.get(currStep);
+        for(int i=3;i<=n;i++){
+            output[i] = output[i-1]+output[i-2];
         }
-        int result = helper(n,currStep+1,map)+helper(n,currStep+2,map);
-        map.put(currStep,result);
-        return result;
+        return output[n];
     }
 }
