@@ -1,23 +1,20 @@
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
+        int n = s.length();
         HashSet<String> set = new HashSet<>();
-        HashMap<Integer,Boolean> map = new HashMap<>();
         for(String word:wordDict) set.add(word);
-        return helper(s,new StringBuilder(),set,0,map);
-    }
-    private boolean helper(String s,StringBuilder input,HashSet<String> set,int start,HashMap<Integer,Boolean> map ){
-        if(s.length()==start) return true;
-        if(map.containsKey(start)) return map.get(start);
-        for(int i=start;i<s.length();i++){
-            input.append(s.charAt(i));
-            if(set.contains(input.toString())){
-                if(helper(s,new StringBuilder(),set,i+1,map)) {
-                    map.put(start,true);
-                    return true;
+        boolean output[] = new boolean[n+1];
+        output[n] =true; 
+        for(int i=n-1;i>=0;i--){
+            StringBuilder input = new StringBuilder();
+            for(int j=i;j<n;j++){
+                input.append(s.charAt(j));
+                if(set.contains(input.toString())&&output[j+1]){
+                    output[i] = true;
+                    break;
                 }
             }
         }
-        map.put(start,false);
-        return false;
+        return output[0];
     }
 }
