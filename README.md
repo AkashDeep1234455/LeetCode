@@ -300,6 +300,7 @@ LeetCode Questions Solution
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkashDeep1234455/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/AkashDeep1234455/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/AkashDeep1234455/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2846-robot-collisions) |
@@ -323,6 +324,7 @@ LeetCode Questions Solution
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDeep1234455/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkashDeep1234455/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/AkashDeep1234455/LeetCode/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -359,6 +361,7 @@ LeetCode Questions Solution
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AkashDeep1234455/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkashDeep1234455/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AkashDeep1234455/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkashDeep1234455/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/AkashDeep1234455/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/AkashDeep1234455/LeetCode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -545,6 +548,7 @@ LeetCode Questions Solution
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AkashDeep1234455/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/AkashDeep1234455/LeetCode/tree/master/0502-ipo) |
 | [0948-sort-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0948-sort-an-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AkashDeep1234455/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Merge Sort
 |  |
 | ------- |
