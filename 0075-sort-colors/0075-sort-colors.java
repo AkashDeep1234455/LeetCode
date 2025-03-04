@@ -1,11 +1,25 @@
 class Solution {
     public void sortColors(int[] nums) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        int zero=0,one=0,two=0;
         for(int num:nums){
-            pq.add(num);
+            if(num==0) zero++;
+            else if(num==1) one++;
+            else two++;
         }
-        for(int i=0;i<nums.length;i++){
-            nums[i] = pq.poll();
+        int i=0;
+        while(one!=0||two!=0||zero!=0){
+            if(zero!=0){
+                nums[i] = 0;
+                zero--;
+            }else if(one!=0){
+                nums[i] = 1;
+                one--;
+            }else{
+                nums[i] = 2;
+                two--;
+            }
+            i++;
         }
+        
     }
 }
