@@ -259,6 +259,7 @@ LeetCode Questions Solution
 | [0053-maximum-subarray](https://github.com/AkashDeep1234455/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AkashDeep1234455/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/AkashDeep1234455/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/AkashDeep1234455/LeetCode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/AkashDeep1234455/LeetCode/tree/master/0118-pascals-triangle) |
@@ -331,6 +332,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/AkashDeep1234455/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0148-sort-list) |
@@ -351,6 +353,7 @@ LeetCode Questions Solution
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AkashDeep1234455/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
