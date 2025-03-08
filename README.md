@@ -256,6 +256,7 @@ LeetCode Questions Solution
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AkashDeep1234455/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/AkashDeep1234455/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AkashDeep1234455/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AkashDeep1234455/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -397,6 +398,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/AkashDeep1234455/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
@@ -526,6 +528,7 @@ LeetCode Questions Solution
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AkashDeep1234455/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AkashDeep1234455/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AkashDeep1234455/LeetCode/tree/master/0079-word-search) |
