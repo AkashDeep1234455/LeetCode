@@ -9,44 +9,69 @@
  * }
  */
 class Solution {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ArrayList<ListNode> output = new ArrayList();
-        int carry = 0;
-        ///while loop
-        while(l1!=null||l2!=null){
-            int value1 = 0;
-            int value2 = 0;
-            if(l1!=null) value1 = l1.val;
-            if(l2!=null) value2 = l2.val;
-            int sum = value1+value2+carry;
-            carry = 0;
+    public void sum(ListNode l1,ListNode l2,ListNode out,int carry){
+        if(l1==null&&l2==null&&carry==1){
+            ListNode currNode = new ListNode(carry);
+            out.next = currNode;
+            out = out.next;
+            return;
+        }
+        if(l1==null&&l2==null) return;
+        if(l1==null){
+            int sum = l2.val+carry;
             if(sum>9){
-                carry = sum/10;
-                sum = sum%10;
+                int diff = sum -10;
+                ListNode currNode = new ListNode(diff);
+                out.next = currNode;
+                out = out.next;
+                carry =1;
+            }else{
+                ListNode currNode = new ListNode(sum);
+                out.next = currNode;
+                out = out.next;
+                carry = 0;
             }
-            ListNode input = new ListNode(sum);
-            output.add(input);
-            if(l1!=null){
-            l1 = l1.next;
-            }
-            if(l2!=null){
-            l2 = l2.next;
-            }
+            sum(l1,l2.next,out,carry);
         }
-        if(carry!=0){
-            while(carry!=0){
-                int sum = carry%10;
-                ListNode input = new ListNode(sum);
-                output.add(input);
-                carry = carry/10;
+        else if(l2==null){
+            int sum = l1.val+carry;
+            if(sum>9){
+                int diff = sum -10;
+                ListNode currNode = new ListNode(diff);
+                out.next = currNode;
+                out = out.next;
+                carry =1;
+            }else{
+                ListNode currNode = new ListNode(sum);
+                out.next = currNode;
+                out = out.next;
+                carry = 0;
             }
+            sum(l1.next,l2,out,carry);
+        }else{
+            int sum = l1.val+l2.val+carry;
+            if(sum>9) {
+                carry =1;
+                int diff = sum - 10;
+                ListNode currNode = new ListNode(diff);
+                out.next = currNode;
+                out = out.next;
+            }
+            else {
+                ListNode currNode = new ListNode(sum);
+                out.next = currNode;
+                out = out.next;
+                carry = 0;
+            }
+            sum(l1.next,l2.next,out,carry);
+
         }
-        ListNode ansList = output.get(0);
-        for(int i=1;i<output.size
-        ();i++){
-            ListNode nextEle = output.get(i);
-            output.get(i-1).next =nextEle;
-        }
-        return ansList;
+    }
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        ListNode output = new ListNode();
+        int carry = 0;
+        ListNode out = output;
+        sum(l1,l2,out,carry);
+        return output.next;
     }
 }
