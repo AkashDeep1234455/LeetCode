@@ -335,6 +335,7 @@ LeetCode Questions Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AkashDeep1234455/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -381,6 +382,7 @@ LeetCode Questions Solution
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AkashDeep1234455/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
