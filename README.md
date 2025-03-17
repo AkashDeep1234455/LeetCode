@@ -382,6 +382,7 @@ LeetCode Questions Solution
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkashDeep1234455/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AkashDeep1234455/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0061-rotate-list) |
@@ -408,6 +409,7 @@ LeetCode Questions Solution
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkashDeep1234455/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AkashDeep1234455/LeetCode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0070-climbing-stairs) |
@@ -630,6 +632,7 @@ LeetCode Questions Solution
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkashDeep1234455/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AkashDeep1234455/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/AkashDeep1234455/LeetCode/tree/master/0273-integer-to-english-words) |
