@@ -381,6 +381,7 @@ LeetCode Questions Solution
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AkashDeep1234455/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0086-partition-list) |
@@ -627,6 +628,7 @@ LeetCode Questions Solution
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AkashDeep1234455/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/AkashDeep1234455/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Queue
