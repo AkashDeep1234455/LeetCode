@@ -318,6 +318,7 @@ LeetCode Questions Solution
 | [0133-clone-graph](https://github.com/AkashDeep1234455/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/AkashDeep1234455/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/AkashDeep1234455/LeetCode/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AkashDeep1234455/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkashDeep1234455/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -342,6 +343,7 @@ LeetCode Questions Solution
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkashDeep1234455/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -395,6 +397,7 @@ LeetCode Questions Solution
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/AkashDeep1234455/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0142-linked-list-cycle-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AkashDeep1234455/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkashDeep1234455/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
