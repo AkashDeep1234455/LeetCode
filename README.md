@@ -320,6 +320,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkashDeep1234455/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/AkashDeep1234455/LeetCode/tree/master/0133-clone-graph) |
@@ -440,6 +441,7 @@ LeetCode Questions Solution
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkashDeep1234455/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/AkashDeep1234455/LeetCode/tree/master/0071-simplify-path) |
@@ -650,6 +652,7 @@ LeetCode Questions Solution
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkashDeep1234455/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Recursion
 |  |
