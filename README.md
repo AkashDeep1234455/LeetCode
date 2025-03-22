@@ -284,6 +284,7 @@ LeetCode Questions Solution
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AkashDeep1234455/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/AkashDeep1234455/LeetCode/tree/master/0399-evaluate-division) |
+| [0485-max-consecutive-ones](https://github.com/AkashDeep1234455/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/AkashDeep1234455/LeetCode/tree/master/0502-ipo) |
 | [0772-construct-quad-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0921-spiral-matrix-iii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0921-spiral-matrix-iii) |
