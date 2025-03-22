@@ -252,6 +252,7 @@ LeetCode Questions Solution
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -317,6 +318,7 @@ LeetCode Questions Solution
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/AkashDeep1234455/LeetCode/tree/master/0133-clone-graph) |
