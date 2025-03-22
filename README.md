@@ -256,6 +256,7 @@ LeetCode Questions Solution
 | [0033-search-in-rotated-sorted-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/AkashDeep1234455/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AkashDeep1234455/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AkashDeep1234455/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AkashDeep1234455/LeetCode/tree/master/0053-maximum-subarray) |
@@ -340,6 +341,7 @@ LeetCode Questions Solution
 | ------- |
 | [0015-3sum](https://github.com/AkashDeep1234455/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/AkashDeep1234455/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AkashDeep1234455/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -456,6 +458,7 @@ LeetCode Questions Solution
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AkashDeep1234455/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/AkashDeep1234455/LeetCode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -606,6 +609,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AkashDeep1234455/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AkashDeep1234455/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AkashDeep1234455/LeetCode/tree/master/0118-pascals-triangle) |
@@ -675,4 +679,8 @@ LeetCode Questions Solution
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/AkashDeep1234455/LeetCode/tree/master/0139-word-break) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AkashDeep1234455/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
