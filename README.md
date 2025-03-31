@@ -283,6 +283,7 @@ LeetCode Questions Solution
 | [0198-house-robber](https://github.com/AkashDeep1234455/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AkashDeep1234455/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashDeep1234455/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/AkashDeep1234455/LeetCode/tree/master/0322-coin-change) |
@@ -333,6 +334,7 @@ LeetCode Questions Solution
 | [0146-lru-cache](https://github.com/AkashDeep1234455/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkashDeep1234455/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0433-minimum-genetic-mutation) |
 | [0726-number-of-atoms](https://github.com/AkashDeep1234455/LeetCode/tree/master/0726-number-of-atoms) |
@@ -388,6 +390,7 @@ LeetCode Questions Solution
 | [0088-merge-sorted-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0502-ipo](https://github.com/AkashDeep1234455/LeetCode/tree/master/0502-ipo) |
 | [0726-number-of-atoms](https://github.com/AkashDeep1234455/LeetCode/tree/master/0726-number-of-atoms) |
@@ -615,6 +618,7 @@ LeetCode Questions Solution
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDeep1234455/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
