@@ -291,6 +291,7 @@ LeetCode Questions Solution
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AkashDeep1234455/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/AkashDeep1234455/LeetCode/tree/master/0399-evaluate-division) |
 | [0485-max-consecutive-ones](https://github.com/AkashDeep1234455/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0493-reverse-pairs) |
 | [0502-ipo](https://github.com/AkashDeep1234455/LeetCode/tree/master/0502-ipo) |
 | [0772-construct-quad-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0921-spiral-matrix-iii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -379,6 +380,7 @@ LeetCode Questions Solution
 | [0287-find-the-duplicate-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AkashDeep1234455/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0493-reverse-pairs) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AkashDeep1234455/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -592,6 +594,7 @@ LeetCode Questions Solution
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0493-reverse-pairs) |
 | [0772-construct-quad-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AkashDeep1234455/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -607,6 +610,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -654,6 +658,7 @@ LeetCode Questions Solution
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/AkashDeep1234455/LeetCode/tree/master/1511-count-number-of-teams) |
 ## Quickselect
 |  |
@@ -709,4 +714,12 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AkashDeep1234455/LeetCode/tree/master/0062-unique-paths) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
