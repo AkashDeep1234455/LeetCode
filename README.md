@@ -271,6 +271,7 @@ LeetCode Questions Solution
 | [0075-sort-colors](https://github.com/AkashDeep1234455/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/AkashDeep1234455/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/AkashDeep1234455/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/AkashDeep1234455/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AkashDeep1234455/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -563,6 +564,7 @@ LeetCode Questions Solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/AkashDeep1234455/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AkashDeep1234455/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -701,6 +703,7 @@ LeetCode Questions Solution
 | [0046-permutations](https://github.com/AkashDeep1234455/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/AkashDeep1234455/LeetCode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/AkashDeep1234455/LeetCode/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0090-subsets-ii) |
 ## Trie
 |  |
 | ------- |
