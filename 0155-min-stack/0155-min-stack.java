@@ -1,32 +1,36 @@
+class MinStack {
+    Stack<Integer> stack;
+    Stack<Integer> minStack;
 
-import java.util.ArrayList;
-import java.util.PriorityQueue;
-import java.util.Stack;
-
-public class MinStack {
-    private Stack<Integer> stack;
-    private Stack<Integer> minStack;
-    public MinStack(){
-        stack = new Stack<>();
+    public MinStack() {
+        stack =new Stack<>();
         minStack = new Stack<>();
     }
-    public void push(int val){
+    
+    public void push(int val) {
         stack.push(val);
-        if(minStack.isEmpty()||minStack.peek()>=val){
-            minStack.push(val);
-        }
+        if(minStack.isEmpty()||minStack.peek()>=val) minStack.push(val);
     }
-    public void pop(){
-        if (stack.peek().equals(minStack.peek())) {
-            minStack.pop();
-        }
+    
+    public void pop() {
+        if(stack.peek().equals(minStack.peek())) minStack.pop();
         stack.pop();
     }
-    public int top(){
+    
+    public int top() {
         return stack.peek();
     }
-    public int getMin(){
+    
+    public int getMin() {
         return minStack.peek();
     }
-
 }
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack obj = new MinStack();
+ * obj.push(val);
+ * obj.pop();
+ * int param_3 = obj.top();
+ * int param_4 = obj.getMin();
+ */
