@@ -296,6 +296,7 @@ LeetCode Questions Solution
 | [0455-assign-cookies](https://github.com/AkashDeep1234455/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AkashDeep1234455/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/AkashDeep1234455/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/AkashDeep1234455/LeetCode/tree/master/0502-ipo) |
 | [0772-construct-quad-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0772-construct-quad-tree) |
 | [0921-spiral-matrix-iii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0921-spiral-matrix-iii) |
@@ -342,6 +343,7 @@ LeetCode Questions Solution
 | [0229-majority-element-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AkashDeep1234455/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/AkashDeep1234455/LeetCode/tree/master/0433-minimum-genetic-mutation) |
+| [0496-next-greater-element-i](https://github.com/AkashDeep1234455/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/AkashDeep1234455/LeetCode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AkashDeep1234455/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AkashDeep1234455/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -495,6 +497,7 @@ LeetCode Questions Solution
 | [0173-binary-search-tree-iterator](https://github.com/AkashDeep1234455/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/AkashDeep1234455/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkashDeep1234455/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/AkashDeep1234455/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/AkashDeep1234455/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -729,6 +732,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkashDeep1234455/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/AkashDeep1234455/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Combinatorics
 |  |
 | ------- |
