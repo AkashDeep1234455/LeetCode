@@ -460,6 +460,7 @@ LeetCode Questions Solution
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkashDeep1234455/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkashDeep1234455/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/AkashDeep1234455/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/AkashDeep1234455/LeetCode/tree/master/0079-word-search) |
@@ -485,6 +486,7 @@ LeetCode Questions Solution
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AkashDeep1234455/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/AkashDeep1234455/LeetCode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AkashDeep1234455/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
