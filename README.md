@@ -499,6 +499,7 @@ LeetCode Questions Solution
 | [0232-implement-queue-using-stacks](https://github.com/AkashDeep1234455/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/AkashDeep1234455/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/AkashDeep1234455/LeetCode/tree/master/0726-number-of-atoms) |
+| [0937-online-stock-span](https://github.com/AkashDeep1234455/LeetCode/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AkashDeep1234455/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -514,6 +515,7 @@ LeetCode Questions Solution
 | [0211-design-add-and-search-words-data-structure](https://github.com/AkashDeep1234455/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/AkashDeep1234455/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AkashDeep1234455/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/AkashDeep1234455/LeetCode/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -733,6 +735,7 @@ LeetCode Questions Solution
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkashDeep1234455/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AkashDeep1234455/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/AkashDeep1234455/LeetCode/tree/master/0937-online-stock-span) |
 ## Combinatorics
 |  |
 | ------- |
@@ -745,4 +748,8 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AkashDeep1234455/LeetCode/tree/master/0493-reverse-pairs) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/AkashDeep1234455/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
