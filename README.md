@@ -492,6 +492,7 @@ LeetCode Questions Solution
 | [0155-min-stack](https://github.com/AkashDeep1234455/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/AkashDeep1234455/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/AkashDeep1234455/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/AkashDeep1234455/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0726-number-of-atoms](https://github.com/AkashDeep1234455/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AkashDeep1234455/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AkashDeep1234455/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -507,6 +508,7 @@ LeetCode Questions Solution
 | [0208-implement-trie-prefix-tree](https://github.com/AkashDeep1234455/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AkashDeep1234455/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/AkashDeep1234455/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/AkashDeep1234455/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -693,6 +695,7 @@ LeetCode Questions Solution
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AkashDeep1234455/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/AkashDeep1234455/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/AkashDeep1234455/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
