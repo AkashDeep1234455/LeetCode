@@ -3,13 +3,13 @@ class Solution {
     public boolean queenChecker(char [][]board,int i,int j){
         int n = board.length;
         ///forward horizontal check
-        for(int y=j+1;y<n;y++){
-            if(board[i][y]=='Q') return true;
-        }
-        ///backward horizontal check
-        for(int y=0;y<j;y++){
-            if(board[i][y]=='Q') return true;
-        }
+        // for(int y=j+1;y<n;y++){
+        //     if(board[i][y]=='Q') return true;
+        // }
+        // ///backward horizontal check
+        // for(int y=0;y<j;y++){
+        //     if(board[i][y]=='Q') return true;
+        // }
         ///upward check
         for(int x=i-1;x>=0;x--){
             if(board[x][j]=='Q') return true;
@@ -49,7 +49,6 @@ class Solution {
         }
 
     }
-
     public List<List<String>> solveNQueens(int n) {
         char board[][] = new char[n][n];
         for(int i=0;i<n;i++){
