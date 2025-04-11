@@ -59,13 +59,6 @@ class Solution {
         }
         List<List<String>> output = new LinkedList<>();
         helper(board,n,0,output);
-        for(int i=0;i<output.size();i++){
-            List<String> curr = output.get(i);
-            for(int j=0;j<curr.size();j++){
-                System.out.print(curr.get(j)+" ");
-            }
-            System.out.println();
-        }
         return output;
 
     }
